@@ -13,7 +13,7 @@
 	*/
 
 	var defaultKey		= 'biZuapu670BHCy2RcE920p4ETJ2Tu4j2VvdNLqXPvNGArsWt', // Unique master Xively API key to be used as a default
-		defaultFeeds	= ['https://xively.com/feeds/2129978978'], // Comma separated array of Xively Feed ID numbers
+		defaultFeeds	= [2129978978], // Comma separated array of Xively Feed ID numbers
 		applicationName	= 'Arduino Yún Temperature (through Xively)', // Replaces Xively logo in the header
 		dataDuration	= '7days', // Default duration of data to be displayed // ref: https://xively.com/dev/docs/api/data/read/historical_data/
 		dataInterval	= 900, // Default interval for data to be displayed (in seconds)
